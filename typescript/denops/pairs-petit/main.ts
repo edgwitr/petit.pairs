@@ -1,6 +1,6 @@
-import type { Entrypoint } from "jsr:@denops/std@^7.3.2";
-import * as mapping from "jsr:@denops/std@^7.3.2/mapping";
-import * as fn from "jsr:@denops/std@^7.3.2/function";
+import type { Entrypoint } from "jsr:@denops/std@^7.4.0";
+import * as mapping from "jsr:@denops/std@^7.4.0/mapping";
+import * as fn from "jsr:@denops/std@^7.4.0/function";
 
 const delimiter_pairs = {
   open: {
